@@ -1,5 +1,8 @@
 node_modules
 .env
 .next
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+/src/generated/
 
 /src/generated/prisma
